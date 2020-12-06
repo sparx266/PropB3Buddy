@@ -3,7 +3,8 @@
 PropB3Buddy – Companion device to the PropB3 Hammond organ emulator
 
 This repo is a place to store the files for my PropB3 project.
-First of all I didn’t design the PropB3, someone called H Bolling did that, but his website has now disappeared, however his files are included in this repo.
+First of all I didn’t design the PropB3, someone called H Bollig did that, but his website has now disappeared, however his files are included in this repo.
+I did edvelop the additional controller to convert from USB MIDI to DIN MIDI, recall various Hammond registrations and aded a control surface.
 
 I built the PropB3 but left it on the shelf for a while.
 After getting a new USB MIDI keyboard, I realised that an add on for the PropB3 was needed, I attempted to explain the process in this YouTube Video https://www.youtube.com/watch?v=6qKU-CcboIQ but here it is again for those who like words.
