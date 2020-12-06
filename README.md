@@ -2,7 +2,7 @@
 
 PropB3Buddy – Companion device to the PropB3 Hammond organ emulator
 
-This repo is a place to store the files for my ProB3 project.
+This repo is a place to store the files for my PropB3 project.
 First of all I didn’t design the PropB3, someone called H Bolling did that, but his website has now disappeared, however his files are included in this repo.
 
 I built the PropB3 but left it on the shelf for a while.
